@@ -16,8 +16,13 @@ hello at lanceri
 hello at lanceri
 hello at lanceri
 hello at lanceri
+<<<<<<< HEAD
 hello at lanceri master
-hello at lanceri
+
+=======
+
+hello at lanceri hot-fix
+>>>>>>> hot-fix
 hello at lanceri
 hello at lanceri
 hello at lanceri
